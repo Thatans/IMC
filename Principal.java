@@ -30,7 +30,7 @@ public class Principal {
 		Calcular calcular = new Calcular();
 		System.out.println("Resultado: " + calcular.calcularIMC(peso, altura));
 		
-		
+		//e4r5tyiun
 		
 		
 	}
